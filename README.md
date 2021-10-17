@@ -1,2 +1,5 @@
 # hello-world
-Just Another repository
+Hi Humans
+
+This is my first try to understand
+how this works.
